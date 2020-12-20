@@ -8,10 +8,10 @@
 |1교시|사회|
 |2교시|영어|
 |3교시|기가|
-|4교시|국어|
-|5교시|과학|
-|6교시|역사|
-|7교시|스포츠|
+|4교시||
+|5교시||
+|6교시||
+|7교시||
 
 
 ## 조회
@@ -64,40 +64,3 @@
 - 우주 엘리베이터
 ### 참고 자료
 [![Youtube](http://img.youtube.com/vi/t_hbYjgL2HI/0.jpg)](https://www.youtube.com/embed/t_hbYjgL2HI "Youtube")
-
-## 4교시 - 국어
-<!--
-### 바로가기
-[국어 바로가기](https://rang.edunet.net/class/G000323851/hmwkppList.do?hmwkSeq=000000&hmwkTypeCd=ALL)
-### 문제
-```
-```
-### 정답
-### 참고 자료
-[![Youtube](http://img.youtube.com/vi/000000000/0.jpg)](https://www.youtube.com/embed/000000000 "Youtube")
--->
-
-## 5교시 - 과학
-<!--
-### 바로가기
-[과학 바로가기](https://rang.edunet.net/class/G000325054/hmwkppList.do?hmwkSeq=000000&hmwkTypeCd=ALL)
-### 문제
-[구글 폼 바로가기](https://forms.gle/000000000)
-### 정답
-### 참고 자료
-[![Youtube](http://img.youtube.com/vi/000000000/0.jpg)](https://www.youtube.com/embed/000000000 "Youtube")
--->
-
-## 6교시 - 역사
-<!--
-### 바로가기
-[역사 바로가기](https://rang.edunet.net/class/G000325407/hmwkppList.do?hmwkSeq=000000&hmwkTypeCd=ALL)
-### 문제
-```
-```
-### 정답
-### 참고 자료
-[![Youtube](http://img.youtube.com/vi/000000000/0.jpg)](https://www.youtube.com/embed/000000000 "Youtube")
--->
-
-## 7교시 - 스포츠
